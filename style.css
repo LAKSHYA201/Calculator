@@ -53,9 +53,101 @@ body{
     height:110px;
     display: flex;
 }
-.pressButtons{
+.button0{
     width: 110px;
     margin:10px;
     font-size:large;
     background-color: antiquewhite;
 }
+.button1{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button2{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button3{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button4{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button5{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button6{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button7{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button8{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.button9{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.divide{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.multiply{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.minus{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.plus{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.AC{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+.calculate{
+    width: 110px;
+    margin:10px;
+    font-size:large;
+    background-color: antiquewhite;
+}
+
+
