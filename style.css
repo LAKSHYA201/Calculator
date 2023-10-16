@@ -39,9 +39,11 @@ body{
     align-items: flex-end;
     padding: 10px;
     font-size: x-large;
+    
 }
 .displayValue{
     margin-right:5px;
+    overflow:auto;
 }
 .buttonHolderFrame{
     display:flex;
